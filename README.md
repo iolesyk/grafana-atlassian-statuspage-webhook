@@ -18,7 +18,7 @@ This application is a **Flask-based webhook handler** designed to integrate **Gr
 
 The Docker image for this application is available on Docker Hub:
 
-[https://hub.docker.com/repository/docker/iolesyk/grafana-atlassian-statuspage-webhook/general](https://hub.docker.com/repository/docker/iolesyk/grafana-atlassian-statuspage-webhook/general)
+[https://hub.docker.com/r/iolesyk/grafana-atlassian-statuspage-webhook](https://hub.docker.com/r/iolesyk/grafana-atlassian-statuspage-webhook)
 
 You can pull the image using:
 ```
