@@ -1,0 +1,4 @@
+Flask==2.2.3
+Werkzeug==2.2.3
+requests==2.28.2
+python-dotenv==1.0.0  # Optional, if you use .env files for environment variables
